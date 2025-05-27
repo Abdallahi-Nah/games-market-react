@@ -1,2 +1,3 @@
-![Home](home.png)
+![Banner](home.png)
+
 
