@@ -1,3 +1,3 @@
-![Banner](home.png)
+![Home](home.PNG)
 
 
